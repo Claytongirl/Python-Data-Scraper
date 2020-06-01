@@ -90,4 +90,3 @@ def looper(list):
 
 looper(high)
 
-print(high)
