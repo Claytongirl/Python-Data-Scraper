@@ -89,4 +89,4 @@ def looper(list):
 		print(link)
 
 looper(high)
-
+print(high)
